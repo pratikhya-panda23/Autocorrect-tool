@@ -4,7 +4,7 @@ This project is a Python-based AI-powered text autocorrect tool developed as par
 
 It leverages Natural Language Processing (NLP) libraries to detect and correct spelling and grammatical errors, helping users write with improved accuracy and fluency.
 
-Features
+**Features**
 
 Spelling Correction using TextBlob
 
@@ -28,7 +28,7 @@ language_tool_python – For grammar checking and corrections
 
 pyperclip – To support clipboard functionality
 
-Project Structure & Explanation
+**Project Structure & Explanation**
 
 1. Spelling Correction – TextBlob
 
@@ -104,11 +104,8 @@ python autocorrect_tool.py
 
 Make sure you have a working internet connection (for LanguageTool to function properly) and Python 3.x installed.
 
-Demo
 
-https://drive.google.com/file/d/1G1hgpQ5aXu01wN00lgYOvpFDOseq50A7/view?usp=drivesdk
-
-Credits
-Developed by Danish M
-Under Internship at Pinnacle Labs
+**Credits**
+Developed by Pratikhya Panda
+For Internship at Pinnacle Labs
 Supported by Ministry of Corporate Affairs, Govt. of India

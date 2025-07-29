@@ -1,6 +1,6 @@
 Smart Autocorrect Tool 🧠
 
-This project is a Python-based AI-powered text autocorrect tool developed as part of an internship program by Pinnacle Labs, supported by the Ministry of Corporate Affairs, Government of India.
+This project is a Python-based AI-powered text autocorrect tool developed as part of an internship program,
 
 It leverages Natural Language Processing (NLP) libraries to detect and correct spelling and grammatical errors, helping users write with improved accuracy and fluency.
 
